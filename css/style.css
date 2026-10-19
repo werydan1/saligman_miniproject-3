@@ -1,0 +1,93 @@
+h1 {
+    font-size: 32px;
+    color: #dd1738;
+}
+
+p {
+    font-size: 16px;
+    /* width: 960px; */
+}
+
+
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+h3 {
+    font-size: smaller;
+    color: #b35c00;
+}
+
+.img-fluid {
+    width: 100%;
+}
+
+.logo {
+    width: 300px;
+}
+
+/* header {
+    background-color: #421127aa;
+} */
+a,
+a:hover {
+    color: #1a5fb4;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.name {
+    font-weight: bold;
+    color: #2f6f71;
+}
+
+.quote {
+    font-style: italic;
+}
+
+.aside-pictures {
+    width: 64px;
+    height: 64px;
+    object-fit: contain;
+}
+
+.logo-small {
+    width: 128px;
+    height: 128px;
+    object-fit: contain;
+}
+
+.small {
+    text-align: center;
+}
+
+.bckgrdimg {
+    background-image: linear-gradient(#00000099, #00000099), url('../images/background.jpeg');
+    background-size: cover;
+    background-position: center;
+    min-height: 400px;
+}
+
+.navbarcss {
+    background-color: #077a01;
+}
+
+.nav-link,
+.navbar-brand {
+    color: #ffffff;
+}
+
+p a {
+    text-decoration: underline;
+}
+
+.heroh1 {
+    color: #ffffff;
+}
